@@ -2,7 +2,7 @@
   nurulhassan - v1
 </h1>
 <p align="center">
-  The First iteration of <a href="https://nurulhassan.github.io/v1/" target="_blank">nurulhassan</a> built with HTML5, CSS3, Javascript and Bootstrap.
+  The First iteration of <a href="https://nurulhassan.tech/" target="_blank">nurulhassan</a> built with HTML5, CSS3, Javascript and Bootstrap.
 </p>
 <div align="center" >
 <img src="v1.PNG" width="100%" />
