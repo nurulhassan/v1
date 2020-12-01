@@ -1,5 +1,5 @@
 <h1 align="center">
-  nurulhassan - v2
+  nurulhassan - v1
 </h1>
 <p align="center">
   The First iteration of <a href="https://nurulhassan.github.io/v1/" target="_blank">nurulhassan</a> built with HTML5, CSS3, Javascript and Bootstrap.
