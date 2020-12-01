@@ -2,10 +2,10 @@
   <img alt="Logo" src="" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v2
+  nurulhassan - v2
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The Second iteration of <a href="https://brittanychiang.com" target="_blank">nurulhassan</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:
