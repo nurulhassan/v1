@@ -1,12 +1,13 @@
 <h1 align="center">
   nurulhassan - v2
 </h1>
-<div align="center" >
-<img src="v1.PNG" width="100%" />
-</div>
 <p align="center">
   The First iteration of <a href="https://nurulhassan.github.io/v1/" target="_blank">nurulhassan</a> built with HTML5, CSS3, Javascript and Bootstrap.
 </p>
+<div align="center" >
+<img src="v1.PNG" width="100%" />
+</div>
+
 ## 🚨 Forking this repo (please read!)
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
